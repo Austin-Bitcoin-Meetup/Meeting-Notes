@@ -62,7 +62,7 @@ Austin Bitcoin Meetup
 *   BitMex Research Issues Warning Against Brain Wallets: [Call me Ishmael](https://blog.bitmex.com/call-me-ishmael/) 
 *   Use sufficient entropy when generating your wallet
 
-### **Software/Hardware Security Updates: **
+### **Software/Hardware Security Updates:**
 
 Reach out to us if you want us to include updates for specific pieces of software or hardware that you use.
 
