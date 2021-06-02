@@ -36,6 +36,7 @@ Austin Bitcoin Meetup
     *   Following up on last week, China has banned [many times](https://www.btctimes.com/news/chinas-history-of-bitcoin-bans)
 *   [Iran](https://www.reuters.com/technology/iran-bans-cryptocurrency-mining-4-months-amid-power-cuts-2021-05-26/) banning Bitcoin mining amidst power outages
 *   [Riot](https://bitcoinmagazine.com/business/riot-acquires-whinstone-with-intent-on-operating-north-americas-largest-bitcoin-mining-facility) acquires Whinstone to become largest US miner
+*   [MARA](https://ir.marathondh.com/news-events/press-releases/detail/1243/correction----marathon-digital-holdings-announces-binding) to move 73,000 miners to 300mWh facility at undisclosed Texas location
 *   India has [not](https://twitter.com/BTC_Archive/status/1399419891548033024) banned Bitcoin
 *   More [Gladstein](https://bitcoinmagazine.com/culture/bitcoin-is-humanitarian-and-environmental) on humanitarian and environmental case for Bitcoin
 *   [Colorado](https://www.coindesk.com/jared-polis-colorado-governor-consensus-2021) interested in accepting “crypto” as form of tax payment
