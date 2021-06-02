@@ -49,7 +49,7 @@ Austin Bitcoin Meetup
 *   [BlockFi](https://bitcoinmagazine.com/business/blockfi-misallocates-hundreds-of-bitcoin) accidentally depositing large amounts of bitcoin to users was a bad choice
     *   [bringing back the bitcoin faucet](https://www.coindesk.com/blockfi-botches-promo-outsized-bitcoin-reward-payments)
 
-**This week in Debunking Fud:**
+**This week in Debunking Fud: **
 
 
 
