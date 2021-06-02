@@ -1,4 +1,4 @@
-## **State of Bitcoin 6/2/21**
+## **State of Bitcoin 2 June 2021**
 
 Austin Bitcoin Meetup 
 
