@@ -1,10 +1,10 @@
 **State of Bitcoin 6/2/21**
 
-**Austin Bitcoin Meetup **
+Austin Bitcoin Meetup 
 
-**7:30pm [Plaza Colombian Coffee](https://www.plazacolombiancoffee.com/) **
+7:30pm [Plaza Colombian Coffee](https://www.plazacolombiancoffee.com/) 
 
-**3842 S Congress Ave, Austin, TX 78704-7240**
+3842 S Congress Ave, Austin, TX 78704-7240
 
 [Join Our Sphinx Tribe](https://tribes.sphinx.chat/t/austintexasbitcoiners)
 
