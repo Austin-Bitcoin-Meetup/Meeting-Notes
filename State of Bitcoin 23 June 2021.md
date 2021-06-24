@@ -1,8 +1,8 @@
 **State of Bitcoin 6/23/21**
 
-**Austin Bitcoin Pleb Meetup **
+**Austin Bitcoin Pleb Meetup**
 
-**7:30pm [Plaza Colombian Coffee](https://www.plazacolombiancoffee.com/) **
+**7:30pm [Plaza Colombian Coffee](https://www.plazacolombiancoffee.com/)**
 
 **3842 S Congress Ave, Austin, TX 78704-7240**
 
@@ -48,13 +48,13 @@
         *   Existing financial network/stock exchanges
     *   Is Bitcoin a canary that Satoshi released into the coal mine?
 
-**Top Content of the Week: **
+**Top Content of the Week:**
 
 
 
 *   BitMex Research Issues Warning Against Brain Wallets: [Call me Ishmael](https://blog.bitmex.com/call-me-ishmael/) 
 *   Use sufficient entropy when generating your wallet
 
-**Software/Hardware Security Updates: **
+**Software/Hardware Security Updates:**
 
 Reach out to us if you want us to include updates for specific pieces of software or hardware that you use.
