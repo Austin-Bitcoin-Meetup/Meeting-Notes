@@ -1,4 +1,4 @@
-**State of Bitcoin 7/7/21**
+##**State of Bitcoin 7/7/21**
 
 **Austin Bitcoin Pleb Meetup**
 
@@ -12,7 +12,7 @@
 
 * ‘Austin Texas Bitcoiners’
 
-**News:**
+###**News:**
 
 
 
@@ -52,14 +52,10 @@
     * This [blog post](https://rubin.io/blog/2021/07/02/covenants/) from Jeremey Rubin dives in to what the possibilities are
     * It’s important for all users of the network to be aware of proposed code changes and weigh in if you have a strong opinion
 
-**Software/Hardware Security Updates:**
+###**Software/Hardware Security Updates:**
 
 Reach out to us if you want us to include updates for specific pieces of software or hardware that you use.
 
 
 
 * Update your nodes to signal Taproot
-
-[jonathanrhemphill@gmail.com](mailto:jonathanrhemphill@gmail.com)
-
-[nicholas.khami@gmail.com](mailto:nicholas.khami@gmail.com) 
